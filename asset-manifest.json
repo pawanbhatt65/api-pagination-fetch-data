@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/api-pagination-fetch-data/static/css/main.756af292.css",
+    "main.js": "/api-pagination-fetch-data/static/js/main.e076edc2.js",
+    "index.html": "/api-pagination-fetch-data/index.html",
+    "main.756af292.css.map": "/api-pagination-fetch-data/static/css/main.756af292.css.map",
+    "main.e076edc2.js.map": "/api-pagination-fetch-data/static/js/main.e076edc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.e076edc2.js"
+  ]
+}
